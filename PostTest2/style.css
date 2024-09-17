@@ -1,0 +1,127 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: snow;
+}
+
+body {
+  display: flex;
+  width: 100vw;
+  height: 150vh;
+  justify-content: center;
+  flex-direction: column;
+}
+
+section {
+  background-color: #bdbdbd;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  background-color: #bdbdbd;
+}
+
+.gambar {
+  display: flex;
+  justify-content: center;
+  background-color: #bdbdbd;
+}
+
+.gambar img {
+  border-radius: 50%;
+}
+
+.kotak1 {
+  margin-bottom: 1em;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 1px solid navy;
+  background-color: royalblue;
+  color: white;
+}
+
+.kotak2 {
+  margin-bottom: 1em;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 1px solid navy;
+  background-color: #29347f;
+  color: white;
+}
+
+.container-utama {
+  display: grid;
+  gap: 24px;
+  margin: auto;
+  border: 1px solid #1d224e;
+  border-radius: 16px;
+  padding: 8px;
+  background-color: #bdbdbd;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  background-color: #9ebbf2;
+  border: 1px solid silver;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+}
+
+.container2 {
+  display: grid;
+  background-color: #9ebbf2;
+  border: 1px solid silver;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+}
+
+.container2 div {
+  background-color: #9ebbf2;
+}
+
+.uang {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pembayaran {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container div {
+  background-color: #9ebbf2;
+}
+
+b {
+  background-color: #9ebbf2;
+}
+
+a {
+  background-color: royalblue;
+  color: white;
+}
+
+body {
+  background-color: snow;
+}
+
+.produk {
+  display: flex;
+  justify-content: space-between;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bayar {
+  display: flex;
+  justify-content: center;
+}
