@@ -1,0 +1,24 @@
+S
+Furina, Alhaitam, Arlecchino, Baizu, Kazuha, Kokomi, Nahida,
+Neuvillette, Yelan, Zhongli, Bennet, Kuki Shinobu, Xiangling,
+Xingqiu
+
+A
+Childe, Clorinde, Hu Tao, Jean, Kinich, Lyney, Mona, Mualani, Navia
+Nilou, Raiden, Shenhe, Tignari, Xianyun, Yae Miko, Chevreuse,
+Faruzan, Fischl
+
+B
+Albedo, Ayaka, Chiori, Emilie, Ganyu, Sigewinne, Venti, Xiao,
+Wriothesley, Beidou, Charlotte, Diona, Gaming, Gorou, Rosaria, Sara,
+Sucrose, Yaoyao, Yunjin
+
+C
+Ayato, Cyno, Dehya, Diluc, Eula, Itto, Keqing, Klee,
+Traveler(dendro), Wanderer, Yoimiya, Barbara, Candace, Chongyun,
+ColleiDori, Freminet, Heizou, Kachina, Kaeya, Kaveh, Kirara, Layla,
+Lisa, Lynette, Mika, Ningguang, Sayu, Sethos, Thoma, Xinyan, Yanfei
+
+D
+Alloy, Qiqi, Traveler(anemo), Traveler(electro), Traveler(geo),
+Traveler(hydro), Amber, Noelle, Razor
